@@ -157,3 +157,36 @@ class Account{
     
     
 }
+
+/*
+I/P:
+2
+1001
+Samvrutha
+32
+F
+2
+60001
+Savings
+25000
+60002
+Current
+125000
+1002
+Midhuna
+34
+F
+1
+60005
+Savings
+255000
+1001
+
+O/P:
+Customer ID: 1001
+Customer Name: Samvrutha
+Age: 32
+Account Details:
+Savings - 60001
+Current - 60002
+*/
